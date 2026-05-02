@@ -1,1 +1,1 @@
-# travell.cervision
+# turizm.cervision
